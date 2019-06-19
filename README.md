@@ -1,4 +1,10 @@
-# Udacity_SFND_P1
-This is project for LIdar Obstacle Detection
+# Udacity SFND Lidar Obstacle Detection
 
-The Euclidean clustering is implemented in `processPointCloud.cpp`
+a fork of [SFND_Lidar_Obstacle_Detection](https://github.com/udacity/SFND_Lidar_Obstacle_Detection)
+
+
+## Goal
+clean and readable PCL usage with modern C++
+
+## Showcase
+![Lidar visualization demo](img0.png)
